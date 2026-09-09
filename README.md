@@ -114,8 +114,21 @@ Analyzes transaction volume and status over time using monthly and weekly trends
 
 ## 📷 Dashboard Screenshots
 
-Screenshots of the four Power BI pages are included in this repository.
+### Transaction Performance Overview
 
+![Transaction Performance Overview](screenshots/Transaction%20Performance%20Overview.png)
+
+### Crypto Currency Analysis
+
+![Crypto Currency Analysis](screenshots/Crypto%20Currency%20Analysis.png)
+
+### Country & Payment Analysis
+
+![Country & Payment Analysis](screenshots/Country%20%26%20Payment%20Analysis.png)
+
+### Time & Trend Analysis
+
+![Time & Trend Analysis](screenshots/Time%20%26%20Trend%20Analysis.png)
 ## 🔗 Interactive Power BI Report
 
 The interactive Power BI report is available through Power BI Service.
