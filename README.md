@@ -134,9 +134,7 @@ Analyzes transaction volume and status over time using monthly and weekly trends
 The interactive Power BI report is available through Power BI Service.
 
 **Power BI Report:**  
-[Open Interactive Dashboard](#)
-
-> The live report link will be added here.
+[Open Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YzYWMwN2QtM2RiOC00ZWE3LThjM2YtMWM4ZDg0NTY1YTlkIiwidCI6IjlhOWMwOTM4LWRjZWUtNGFlOS04ZmE1LTYyM2I0YWVkYTJkNyJ9)
 
 ## 🔍 Project Focus
 
